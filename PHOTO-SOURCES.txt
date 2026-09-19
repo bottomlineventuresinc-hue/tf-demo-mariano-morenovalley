@@ -1,0 +1,20 @@
+PHOTO SOURCES — hs-003-mariano Mariano's Landscape (Wave 3 2026-09-19 PT)
+Commercial-ok Unsplash/Pexels. Verified by opening each file. No owner stock face. No indoor potting.
+
+hero-site.jpg — Pexels 280222 — Residential house + manicured lawn (hero)
+services-trade.jpg — Unsplash photo-1558904541-efa843a96f01 — Lawn/sod close-up
+job-land-after.jpg — Unsplash photo-1557429287-b2e26467fc2b — Landscaped residential yard after
+job-land-before.jpg — hs-002-jf / Unsplash photo-1591857177580 — Yard before landscaping refresh
+job-hard-after.jpg — Unsplash photo-1600585154340-be6161a56a0c — Patio + lawn hardscape after
+job-hard-before.jpg — hs-002-jf hardscape before library
+job-wall-after.jpg — Pexels 2219024 block/wall after (JF library)
+job-wall-before.jpg — Pexels 259588 grade/house before (JF library)
+people-crew.jpg — wave2/crew-outdoor — Outdoor crew jobsite NOT owner face
+people-marek.jpg — Pexels garden-grass-meadow (589) — Lawnmower on lawn NOT owner face
+people-tom.jpg — Pexels 1301856 — Gloved trowel/tools outdoor NOT owner face
+coverage-house.jpg — Pexels 210617 — Suburban home with lawn
+
+CORRECTIONS 2026-09-19 PT (visual verify):
+- job-*-before → Pexels 259957 dry/seeded residential lawn (not indoor potting)
+- job-hard-before → Pexels 2219024 outdoor concrete pad pour
+- people-crew → RJP residential crew painting (not high-rise rebar)
