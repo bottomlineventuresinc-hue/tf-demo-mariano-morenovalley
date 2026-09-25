@@ -1,20 +1,20 @@
-PHOTO SOURCES — hs-003-mariano Mariano's Landscape (Wave 3 2026-09-19 PT)
-Commercial-ok Unsplash/Pexels. Verified by opening each file. No owner stock face. No indoor potting.
+PHOTO SOURCES · hs-003-mariano Mariano's Landscape (CR 2026-09-25b PT rebuild)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
-hero-site.jpg — Pexels 280222 — Residential house + manicured lawn (hero)
-services-trade.jpg — Unsplash photo-1558904541-efa843a96f01 — Lawn/sod close-up
-job-land-after.jpg — Unsplash photo-1557429287-b2e26467fc2b — Landscaped residential yard after
-job-land-before.jpg — hs-002-jf / Unsplash photo-1591857177580 — Yard before landscaping refresh
-job-hard-after.jpg — Unsplash photo-1600585154340-be6161a56a0c — Patio + lawn hardscape after
-job-hard-before.jpg — hs-002-jf hardscape before library
-job-wall-after.jpg — Pexels 2219024 block/wall after (JF library)
-job-wall-before.jpg — Pexels 259588 grade/house before (JF library)
-people-crew.jpg — wave2/crew-outdoor — Outdoor crew jobsite NOT owner face
-people-marek.jpg — Pexels garden-grass-meadow (589) — Lawnmower on lawn NOT owner face
-people-tom.jpg — Pexels 1301856 — Gloved trowel/tools outdoor NOT owner face
-coverage-house.jpg — Pexels 210617 — Suburban home with lawn
+hero-site.jpg <- cr0925/land-fence-garden-iron.jpg : land-fence-garden-iron (rawpixel CC0 https://www.rawpixel.com/image/5949532/free-public-domain-cc0-photo)
+services-trade.jpg <- cr0925/land-brick-patio-curve.jpg : Permeable Pavers (for Landscaping) (flickr CC0 https://www.flickr.com/photos/184594136@N08/52279239788)
+people-crew.jpg <- cr0925/land-patio-chairs.jpg : Patio Furniture (stocksnap CC0 https://stocksnap.io/photo/patio-furniture-ZIU3AC46X4)
+people-marek.jpg <- cr0925b/tree-stump-cut.jpg : A close-up view of a large tree stump, showcasing its textured, bark-covered sur (wordpress CC0 https://wordpress.org/photos/photo/88669e3f51/)
+people-tom.jpg <- cr0925/land-hedge-shears.jpg : Best Ready Hedges in UK (flickr PDM https://www.flickr.com/photos/195958422@N04/52276329275)
+coverage-house.jpg <- cr0925/land-hedges-lawn.jpg : Park Nature (stocksnap CC0 https://stocksnap.io/photo/park-nature-MTSVUXKTHB)
+land-green-waste.jpg <- cr0925/land-green-waste.jpg : Project 365 #165: 140614 The First Cut Is The Deepest (flickr PDM https://www.flickr.com/photos/23408922@N07/14235199140)
+tree-stump-cut.jpg <- cr0925b/tree-stump-cut.jpg : A close-up view of a large tree stump, showcasing its textured, bark-covered sur (wordpress CC0 https://wordpress.org/photos/photo/88669e3f51/)
+land-shovel-bed.jpg <- cr0925/land-shovel-bed.jpg : Shovel gardening (rawpixel CC0 https://www.rawpixel.com/image/6037169/photo-image-public-domain-plant-free)
+block-wall-retaining.jpg <- cr0925b/block-wall-retaining.jpg : Block Wall Roadway (flickr CC0 https://www.flickr.com/photos/193360612@N06/53755378544)
+land-flagstone-laying.jpg <- cr0925/land-flagstone-laying.jpg : 2009/365/258 Eight Feet Per Day (flickr CC0 https://www.flickr.com/photos/37996646802@N01/3890718095)
+land-brick-herringbone.jpg <- cr0925/land-brick-herringbone.jpg : Permeable Pavers (for Landscaping) (flickr CC0 https://www.flickr.com/photos/184594136@N08/52279239738)
 
-CORRECTIONS 2026-09-19 PT (visual verify):
-- job-*-before → Pexels 259957 dry/seeded residential lawn (not indoor potting)
-- job-hard-before → Pexels 2219024 outdoor concrete pad pour
-- people-crew → RJP residential crew painting (not high-rise rebar)
+Replaced from the prior build: all photos (prior library had mislabeled trade images and stock faces).
+Note: marianoslandscaping.com is a Bahamas firm, NOT linked or offered.

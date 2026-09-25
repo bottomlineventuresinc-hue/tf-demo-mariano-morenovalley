@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Landscaping, tree service, and patio work across Moreno Valley and the Inland Empire. Fixed itemised quotes before we start, Gabriel as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Landscaping, tree work, patios, and retaining walls. Across Moreno Valley and the Inland Empire. Gabriel looks at the job first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Yards and patios,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Yards, trees, and patios,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Landscaping (written programme)';
+          serviceFirst.textContent = 'Tree trimming and removal (written price)';
         }
       }
     }
@@ -85,9 +85,9 @@
     /* mode: draft | updated */
     if (!barSub) return;
     if (mode === 'updated') {
-      barSub.textContent = 'Draft updated. More changes? Or claim it.';
+      barSub.textContent = 'Draft for Gabriel at Mariano\'s Landscape. Claim it, preview the rest of the journey, or request a change.';
     } else {
-      barSub.textContent = 'Draft for Gabriel at Mariano's Landscape Services. Claim it, preview the rest of the journey, or request a change.';
+      barSub.textContent = 'Draft for Gabriel at Mariano\'s Landscape. Claim it, preview the rest of the journey, or request a change.';
     }
   }
 
@@ -158,7 +158,7 @@
       var delay = 2500 + Math.floor(Math.random() * 1500);
       runSpinner(
         'Working on updates to your site…',
-        'Updating the draft for Mariano's Landscape. Hang tight.'s Landscape. Hang tight.',
+        'Updating the draft for Mariano\'s Landscape. Hang tight.',
         delay,
         function () {
           var editId = applyNextEdit();
