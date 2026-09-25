@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Landscaping, tree work, patios, and retaining walls. Across Moreno Valley and the Inland Empire. Gabriel looks at the job first and puts the price in writing.';
+            'Landscaping, tree work, patios, and retaining walls in Moreno Valley. Gabriel looks at the job first and puts the price in writing.';
         }
       }
     },
